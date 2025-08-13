@@ -1,0 +1,27 @@
+[
+  {
+    "chip": "esp32doit-devkit-v1",
+    "versao": "22.2.0",
+    "link": "https://raw.githubusercontent.com/Schvras/firmware/main/placa_fio_branco.22.2.0.bin"
+  },
+  {
+    "chip": "lolin_s2_mini",
+    "versao": "22.2.0",
+    "link": "https://raw.githubusercontent.com/Schvras/firmware/main/placa_conector.22.2.0.bin"
+  },
+  {
+    "chip": "ESP32-D0WD-V3contador_v2",
+    "versao": "22.2.0",
+    "link": "https://raw.githubusercontent.com/Schvras/firmware/main/placa_fio_branco.22.2.0.bin"
+  },
+  {
+    "chip": "ESP32-S2contador_v2",
+    "versao": "22.2.0",
+    "link": "https://raw.githubusercontent.com/Schvras/firmware/main/placa_conector.22.2.0.bin"
+  },
+  {
+    "chip": "ESP32-S2contador_rfid_v2",
+    "versao": "1.1.0",
+    "link": "https://raw.githubusercontent.com/Schvras/firmware/main/contador_rfid_v2/firmware.bin"
+  }
+]
